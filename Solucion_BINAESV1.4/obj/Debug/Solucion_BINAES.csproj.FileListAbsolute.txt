@@ -46,3 +46,21 @@ C:\Users\Admin\Desktop\Programa_BINAES_v1.2 - copia\BINAES\Solucion_BINAES\obj\D
 C:\Users\Admin\Desktop\Programa_BINAES_v1.2 - copia\BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Programa_BINAES_v1.2 - copia\BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.exe
 C:\Users\Admin\Desktop\Programa_BINAES_v1.2 - copia\BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.pdb
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\bin\Debug\Solucion_BINAES.exe.config
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\bin\Debug\Solucion_BINAES.exe
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\bin\Debug\Solucion_BINAES.pdb
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.frmPrincipal.resources
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.Form2.resources
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.frmagregarejemplar.resources
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.frmAgregarusuario.resources
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.frmRegistrarevento.resources
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.frmModificarejemplar.resources
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.Properties.Resources.resources
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.exe
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.pdb
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.frmPrestamoDisponible.resources
+C:\Users\Admin\Desktop\Programa_BINAES\Solucion_BINAES\obj\Debug\Solucion_BINAES.frmPrestamoNodisponoble.resources
